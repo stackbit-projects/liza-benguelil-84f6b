@@ -11,7 +11,6 @@ form_fields:
       - lorem-ipsum
   - input_type: email
     name: email
-    label: Email
     is_required: true
   - input_type: select
     name: subject
