@@ -15,6 +15,7 @@ form_fields:
     default_value: Email
   - input_type: textarea
     default_value: Message
+    is_required: true
 submit_label: ENVOYER
 seo:
   title: Get in Touch
