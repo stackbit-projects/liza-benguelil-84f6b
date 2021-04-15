@@ -16,13 +16,6 @@ form_fields:
   - input_type: textarea
     default_value: Message
     is_required: false
-  - input_type: text
-    name: lorem-ipsum
-    label: lorem-ipsum
-    default_value: lorem-ipsum
-    options: []
-    is_required: false
-    type: form_field
 submit_label: ENVOYER
 seo:
   title: Get in Touch
