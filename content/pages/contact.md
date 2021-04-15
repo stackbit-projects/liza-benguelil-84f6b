@@ -12,7 +12,7 @@ form_fields:
   - input_type: email
     name: email
     is_required: true
-    default_value: Mail
+    default_value: Email
   - input_type: select
     name: subject
     label: Subject
