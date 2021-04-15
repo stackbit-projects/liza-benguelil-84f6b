@@ -15,7 +15,7 @@ form_fields:
     default_value: Email
   - input_type: textarea
     default_value: Message
-submit_label: Send Message
+submit_label: Envoyé
 seo:
   title: Get in Touch
   description: This is the contact page
