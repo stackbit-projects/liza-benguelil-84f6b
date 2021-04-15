@@ -6,7 +6,7 @@ form_action: /success
 form_fields:
   - input_type: text
     label: Nom
-    default_value: Your name
+    default_value: Votre nom
     is_required: true
     name: Name
   - input_type: email
