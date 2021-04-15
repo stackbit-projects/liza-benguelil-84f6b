@@ -14,7 +14,6 @@ form_fields:
     is_required: true
     default_value: Email
   - input_type: textarea
-    label: Message
     default_value: Your message
   - input_type: checkbox
     name: consent
