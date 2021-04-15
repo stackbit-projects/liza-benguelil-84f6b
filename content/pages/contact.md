@@ -5,7 +5,7 @@ form_id: contactForm
 form_action: /success
 form_fields:
   - input_type: text
-    default_value: Votre nom
+    default_value: Nom
     is_required: true
     options:
       - lorem-ipsum
