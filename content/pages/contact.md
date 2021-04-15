@@ -5,7 +5,6 @@ form_id: contactForm
 form_action: /success
 form_fields:
   - input_type: text
-    name: name
     label: Nom
     default_value: Your name
     is_required: true
