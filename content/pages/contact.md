@@ -15,7 +15,7 @@ form_fields:
     default_value: Email
   - input_type: textarea
     default_value: Message
-    is_required: true
+    is_required: false
   - input_type: text
     name: lorem-ipsum
     label: lorem-ipsum
