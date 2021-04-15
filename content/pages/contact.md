@@ -15,11 +15,6 @@ form_fields:
     default_value: Email
   - input_type: textarea
     default_value: Message
-  - input_type: checkbox
-    name: consent
-    label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
 submit_label: Send Message
 seo:
   title: Get in Touch
