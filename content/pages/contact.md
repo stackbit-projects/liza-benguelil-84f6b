@@ -6,7 +6,7 @@ form_action: /success
 form_fields:
   - input_type: text
     default_value: Nom
-    is_required: true
+    is_required: false
     options:
       - lorem-ipsum
   - input_type: email
